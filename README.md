@@ -20,7 +20,7 @@
 - Adeu
 - Fins aviat!
 
-🔵 Hola! Com va això?
+🔵 Hola! Com va això?\
 🟣 Bé, i tu?
 
 \+ Molt bé, bé
