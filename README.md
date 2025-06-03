@@ -27,7 +27,7 @@
 \+/- Així així, no gaire bé, més o menys, anar fent
 \- Malament
 
-🔵 Com estàs?
+🔵 Com estàs?\
 🟣 Molt bé
 
 #### Com et dius?
@@ -50,15 +50,15 @@
 | Vosaltres |   Sou |
 | Ells/Ellas|   Són |
 
-🔵 Com et dius?
+🔵 Com et dius?\
 🟣 Em dic Rocío
 
-🔵 Qui ets?
+🔵 Qui ets?\
 🟣 Soc la Carolyne **o** Soc l'Anna
 > Masculí i femení s'apostrofen si la paraula comença amb vocal o h.
 
-🔵 Hola, soc la Maria. Tu ets en Jose, **oi**?
-🟣 No, en Jose soc jo
+🔵 Hola, soc la Maria. Tu ets en Jose, **oi**?\
+🟣 No, en Jose soc jo\
 🔵 Ah, hola! I tu, com et dius?
 
 #### Com s'escriu?
@@ -93,21 +93,21 @@
 | Y      | i grega              |
 | Z      | zeta                 |
 
-🔵 Com s'escriu el teu nom?
+🔵 Com s'escriu el teu nom?\
 🟣 S'escriu...
 
-🔵 Com s'escriu el teu cognom?
-🟣 S'escriu...
-🔵 Porta accent?
+🔵 Com s'escriu el teu cognom?\
+🟣 S'escriu...\
+🔵 Porta accent?\
 🟣 Si, la a amb accent
 > Si té doble lletra es pot dir ela ela o doble ela per exemple
 
 #### D'on ets?
 
-🔵 D'on ets?
+🔵 D'on ets?\
 🟣 Soc de Catalunya, soc catalana (femení)
 
-🔵 D'on ets?
+🔵 D'on ets?\
 🟣 Soc de l'Argentina, soc argentí (masculí)
 
 #### On vius?
@@ -121,7 +121,7 @@
 | Vosaltres |   Viviu |
 | Ells/Ellas|   Viven |
 
-🔵 On vius?
+🔵 On vius?\
 🟣 Visc a Barcelona al barri de l'Eixample
 
 **Tipus de via**:
@@ -145,7 +145,7 @@
 
 > Carrer, numero, pis, porta
 
-🔵 On vius?
+🔵 On vius?\
 🟣 Visc a Barcelona al barri de l'Eixample, al carrer de Provença 224, quart, primera
 
 #### Els números
@@ -183,7 +183,7 @@
 | 246   | dos-cents quaranta-sis|
 |  1865 | mil vuit-cents seixanta-cinc |
 
-🔵 Quin és el teu mòbil?
+🔵 Quin és el teu mòbil?\
 🟣 El meu mòbil és sis, quaranta-vuit, dotze, noranta-dos, vuitanta-nou
 
 |           |  Tenir|
@@ -195,7 +195,7 @@
 | Vosaltres |   Teniu |
 | Ells/Ellas|   Tenen |
 
-🔵 Quants anys tens? 
+🔵 Quants anys tens?\
 🟣 Tinc 34 anys **o** en tinc 34
 
 #### Treballar
@@ -212,6 +212,7 @@
 > Feina para referir-se al lloc o situació laboral, però de manera més informal
 
 🔵 Tinc molta feina acumulada
+
 🔵 La meva feina és de recepcionista
 
 - El/la cangur                      // niñera
@@ -272,6 +273,7 @@
 - Entre
 
 🔵 El dormitori **és** a la dereta del passadis
+
 🔵 A la dereta del passadis hi ha el dormitori
 
 #### Plural
@@ -304,6 +306,10 @@ Germans: gran - mitjà/mitjana - petit/petita
 ```
 Hola! Jo soc l'Edita i us vull presentar la meva família. Tinc un germà que es diu Diego, que té 31 anys. Els nostres pares són la Carmen i l'Adelino. Els meus avis es diuen Ernesto i Ester i tenen quatre filles, la meva mare i les meves tietes. La Martha és la meva tia i el Ricardo el meu oncle. Ells no tenen fills. La Dori és l'altra tia, té dos fills, els meus cosins Pablo i Micaela. I l'última tia que tinc és la M. Carmen, que està separada del meu oncle Julio.
 ```
+
+```
+Hola! Soc la Mónica. La meva mare es diu Eugenia i és morena, com jo. El meu pare és alemany, es diu Gunter. És un home prim i ros. Tinc dos germans, l'Arnau, que és el gran, i el Hans, que és el mitjà; jo soc la petita. L'Arnau és solter i el Hans és casat. Jo també soc casada i tinc dues filles de 2 i 4 anys, la Marta, que és molt simpàtica, i l'Ariadna, que és una mica més seriosa. El meu home es diu Gerard i fa 5 anys que som casats.
+``` 
 
 #### Estat civils
 
@@ -463,6 +469,7 @@ Calçat:
 - Obren a las vuit tanquen a las deu
 
 🔵 Els supermercats obren de dilluns a dissabte
+
 🔵 Les fermàcies obren a las 9 i tancan a las 8
 
 #### Llocs
@@ -515,13 +522,13 @@ Calçat:
 
 #### En
 
-🔵 Quantes cadires hi ha?
+🔵 Quantes cadires hi ha?\
 🟣 Hi ha dues cadires
 
-🔵 Quantes cadires hi ha?
+🔵 Quantes cadires hi ha?\
 🟣 N'hi ha dues
 
-🔵 Quantes cadires hi ha?
+🔵 Quantes cadires hi ha?\
 🟣 No n'hi ha cap
 
 #### Preguntar
