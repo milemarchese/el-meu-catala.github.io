@@ -24,5 +24,5 @@ title: Català
 
 ## Links
 
-https://www.verbs.cat/ca/
-https://www.softcatala.org/traductor/
+- [Conjugar els verbs en català](https://www.verbs.cat/ca/)
+- [Traductor](https://www.softcatala.org/traductor/)
