@@ -1,3 +1,8 @@
+---
+layout: home
+title: Català
+---
+
 # Català
 
 ## Seccions
@@ -16,3 +21,8 @@
 - [Numeros](numeros.md)
 - [Treballs](treballs.md)
 - [Preferencia](preferencias.md)
+
+## Links
+
+https://www.verbs.cat/ca/
+https://www.softcatala.org/traductor/

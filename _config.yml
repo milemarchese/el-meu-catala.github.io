@@ -1,1 +1,5 @@
-# remote_theme: rhl-bthr/parchment
+title: Català
+description: Mis notas
+remote_theme: rhl-bthr/parchment
+plugins:
+  - jekyll-remote-theme
