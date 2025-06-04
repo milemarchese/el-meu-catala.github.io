@@ -1,4 +1,4 @@
-### LLocs y activitats
+### Llocs y activitats
 
 #### Llocs
 
