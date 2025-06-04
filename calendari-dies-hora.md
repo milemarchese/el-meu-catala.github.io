@@ -15,6 +15,13 @@
 - Novembre
 - Decembre
 
+#### Estacions
+
+- 🍂 La tardor
+- 🍉 L'estiu
+- 🌸 La primavera
+- ☃️ L'hivern
+
 #### Dies de la setmana
 
 - Dilluns
@@ -33,6 +40,8 @@
 - El vespre (20 a 21 mes o menys)
 - La nit
 - La matinada
+
+> **A la tarda**, no per la tarda
 
 #### A quina hora?
 

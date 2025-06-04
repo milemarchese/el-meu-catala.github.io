@@ -12,6 +12,7 @@
 - [Descripciones](descripciones.md)
 - [La meva familia](familia.md)
 - [Lletras](lletras.md)
-- [Llocs](llocs.md)
+- [LLocs y activitats](llocs.md)
 - [Numeros](numeros.md)
 - [Treballs](treballs.md)
+- [Preferencia](preferencias.md)
