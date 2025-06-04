@@ -8,22 +8,25 @@ title: Català
 ## Seccions
 
 - [Gramàtica](gramatica.md)
-- [Saludar i presentar-se](saludar-presentar-se.md)
-- [Lletres](lletres.md)
-- [Números](numeros.md)
+
+#### Bàsic
+
 - [Calendari, dies, hora](calendari-dies-hora.md)
 - [D'on ets? On vius?](on-vius.md)
+- [Lletres](lletres.md)
+- [Números](numeros.md)
 - [Preferència](preferencias.md)
+- [Saludar i presentar-se](saludar-presentar-se.md)
 
 #### Vocabulario
 
+- [Aliments](menjar.md)
 - [Casa meva](casa.md)
+- [Colores](colores.md)
+- [Descriure una persona](descripcions.md)
+- [La família](familia.md)
 - [Llocs y activitats](llocs.md)
 - [Treballs](treballs.md)
-- [Colores](colores.md)
-- [Aliments](menjar.md)
-- [La família](familia.md)
-- [Descriure una persona](descripcions.md)
 
 ## Links
 
