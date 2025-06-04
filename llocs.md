@@ -72,14 +72,14 @@
 | Vosaltres |   Voleu |
 | Ells/Ellas|   Volem |
 
-🔵 Benvingut! Què vols?
-🟣 Vull una barra de pá de pagès
-🔵 Tallat?
-🟣 Si , i us plau
-🔵 Què més? - Alguna cosa més?
-🟣 No, res més
-🔵 Efectiu o tarjeta?
-🟣 Efectiu, quant es?
-🔵 10 euros, vols bossa?
-🟣 No cal, adeu!
+🔵 Benvingut! Què vols?\
+🟣 Vull una barra de pá de pagès\
+🔵 Tallat?\
+🟣 Si , i us plau\
+🔵 Què més? - Alguna cosa més?\
+🟣 No, res més\
+🔵 Efectiu o tarjeta?\
+🟣 Efectiu, quant es?\
+🔵 10 euros, vols bossa?\
+🟣 No cal, adeu!\
 🔵 Que vagi bé!
