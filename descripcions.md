@@ -1,4 +1,4 @@
-### Descripciones
+### Descripcions
 
 #### Físiques
 
@@ -31,7 +31,7 @@
 **Tinc o porto el cabell**
 
 - Curt
-- Arrisat, ondulat
+- Arrissat, ondulat
 - Tenyit
 - Recollit: una cua, una trena, un monyo
 - No tinc cabell :(
@@ -78,15 +78,15 @@
 #### Caràcter
 
 - nerviós, nerviosa
-- tranquil, tranquil-la
+- tranquil, tranquil·la
 - generós, generosa
 - gandul, gandula   //vago
 - mandrós, mandrosa //perezosa
 - treballador, treballadora
-- simpatic, simpática
+- simpàtic, simpàtica
 - agradable, amable
 - egoista
-- antipàtic, antipática
+- antipàtic, antipàtica
 - tímid, tímida, reservat, reservada, vergonyós, vergonyosa
 - callat, callada
 - xerraire
@@ -94,7 +94,7 @@
 - divertit, divertida
 - malhumorat, malhumorada
 - animós, animosa
-- intel-ligent, lest, llesta
+- intel·ligent, lest, llesta
 - seriós, seriosa
 - sincera, sincer
 - curiós, curiosa

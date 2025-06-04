@@ -13,7 +13,7 @@
 - Setembre
 - Octubre
 - Novembre
-- Decembre
+- Desembre
 
 #### Estacions
 
@@ -37,7 +37,7 @@
 - El matí
 - El migdia
 - La tarda
-- El vespre (20 a 21 mes o menys)
+- El vespre (20 a 21 més o menys)
 - La nit
 - La matinada
 
@@ -58,13 +58,13 @@
 
 - Obren de nou a nou
 - Des de ... fins a ...
-- Obren a las vuit tanquen a las deu
+- Obren a les vuit tanquen a les deu
 
 🔵 Els supermercats obren de dilluns a dissabte
 
-🔵 Les fermàcies obren a las 9 i tancan a las 8
+🔵 Les farmàcies obren a las 9 i tancan a las 8
 
-#### Frecuencias
+#### Freqüències
 
 \+ sempre\
 | sovint\

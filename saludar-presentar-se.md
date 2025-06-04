@@ -29,7 +29,7 @@
 | Ell/Ella  |   Es diu      |
 | Nosaltres |   Ens diem    |
 | Vosaltres |   Us diu      |
-| Ells/Ellas|   Es diuen    |
+| Ells/Elles|   Es diuen    |
 
 |           |  Ser  |
 |-----------|-------|
@@ -38,7 +38,7 @@
 | Ell/Ella  |   És  |
 | Nosaltres |   Son |
 | Vosaltres |   Sou |
-| Ells/Ellas|   Són |
+| Ells/Elles|   Són |
 
 🔵 Com et dius?\
 🟣 Em dic Rocío
@@ -57,4 +57,4 @@
 - Felicitats, enhorabona
 - Molts petons, un petó, una abraçada
 - Que passis un bon dia!
-- Et desitjo que en facis molst més
+- Et desitjo que en facis molts més

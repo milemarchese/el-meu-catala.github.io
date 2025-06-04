@@ -1,27 +1,27 @@
 ### La casa
 
-#### Parts y objectes
+#### Parts i objectes
 
 - La cuina
     - La nevera
     - El forn
     - La pica // bacha
 - El rebedor
-- El passadis
+- El passadís
 - El dormitori
     - **El** llit
-    - EL calaix, los calaixos, la calaixera // cajones
+    - El calaix, els calaixos, la calaixera // cajones
     - La tauleta de nit
     - L'armari (masculí)
 - L'estudi
 - El safareig                       // lavadero
     - La rentadora
-- El lavabo, el bany (con dutxa)
+- El lavabo, el bany (amb dutxa)
     - La dutxa
 - La sala d'estar
     - El prestatge, la prestatgeria // estantes
     - El llum                       // la lampara objeto, la llum del sol es femeni
-    - El sofa
+    - El sofà
     - La butaca
     - La catifa                     // alfombra
     - La taula

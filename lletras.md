@@ -38,6 +38,6 @@
 🔵 Com s'escriu el teu cognom?\
 🟣 S'escriu...\
 🔵 Porta accent?\
-🟣 Si, la a amb accent
+🟣 Sí, la a amb accent
 
 > Si té doble lletra es pot dir ela ela o doble ela per exemple

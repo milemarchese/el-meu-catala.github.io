@@ -1,12 +1,12 @@
-#### Familia
+#### Família
 
 - Mare / pare
 - Filla / fill
 - Àvia / avi
-- Germana / german
-- Tia, tieta, oncla / tiet, oncle
+- Germana / germà
+- Tia, tieta / tiet, oncle
 - Neboda / nebot
-- Novia / novio
+- Novia / nòvio
 
 Germans: gran - mitjà/mitjana - petit/petita
 

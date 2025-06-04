@@ -2,7 +2,7 @@
 
 #### Preguntar
 
-- Que?
+- Què?
 - Quants?
     - Quant, quants (M)
     - Quanta, quantes (F)
@@ -10,7 +10,7 @@
 - Qui?
 - Quin?
 - Quan?
-- Per que?
+- Per què?
 - On?
 
 #### En
@@ -41,11 +41,11 @@
     - El llit, els llits
     - L'armari, els armaris
 - Si finalitza en S, X, Ç (+os)
-    - El passadis, els passadissos
-    - El calaixo, els calaixos
+    - El passadís, els passadissos
+    - El calaix, els calaixos
     - El braç, els braços
 - Femení (+as)
-    - La dutxa, las dutxas
+    - La dutxa, les dutxes
 - Vocal amb accent (+ns)
     - L'habitació, les habitacions
     - El balco, els balcons

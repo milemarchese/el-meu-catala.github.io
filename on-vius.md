@@ -17,7 +17,7 @@
 | Ell/Ella  |   Viu  |
 | Nosaltres |   Vivim |
 | Vosaltres |   Viviu |
-| Ells/Ellas|   Viven |
+| Ells/Elles|   Viuen |
 
 🔵 On vius?\
 🟣 Visc a Barcelona al barri de l'Eixample
@@ -41,7 +41,7 @@
 |sisé|sisena|
 |seté|setena|
 
-> Carrer, numero, pis, porta
+> Carrer, número, pis, porta
 
 🔵 On vius?\
 🟣 Visc a Barcelona al barri de l'Eixample, al carrer de Provença 224, quart, primera
@@ -50,11 +50,11 @@
 
 - Davant
 - Darrere
-- Dereta
+- Dreta
 - Esquerra
 - Al costat dret/esquerre
 - Entre
 
-🔵 El dormitori **és** a la dereta del passadis
+🔵 El dormitori **és** a la dereta del passadís
 
-🔵 A la dereta del passadis hi ha el dormitori
+🔵 A la dreta del passadís hi ha el dormitori

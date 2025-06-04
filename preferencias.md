@@ -9,7 +9,7 @@
 | Bastant, força\
 | Una mica\
 | No ... gaire\
-| No ... gens (cero)\
+| No ... gens (zero)\
 \- No ... gens ni mica
 
 🔵 A tu, t'agrada anal al cinema?\

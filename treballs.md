@@ -8,8 +8,8 @@
 | Tu        |   Treballes |
 | Ell/Ella  |   Treballa  |
 | Nosaltres |   Treballem |
-| Vosaltres |   Trevalleu |
-| Ells/Ellas|   Treballen |
+| Vosaltres |   Treballeu |
+| Ells/Elles|   Treballen |
 
 > Feina para referir-se al lloc o situació laboral, però de manera més informal
 
@@ -20,7 +20,7 @@
 - El/la cangur                      // niñera
 - El netejador, la netejadora       // limpieza
 - El/la estudiant -> l'estudiant
-- El metge, la metgesa              // doctor
+- El metge, la metgessa              // doctor
 - El cambrer, la cambrera           // mozo
 - El/la lampista                    // plomero
 - El mestre, la mestra              // maestra

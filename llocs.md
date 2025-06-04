@@ -11,7 +11,7 @@
 
 #### Negocis
 
-- Fermàcie
+- Farmàcia
 - Sabateria
 - Mercat
 - Forn de pa
@@ -38,25 +38,25 @@
 | Ell/Ella  |   Va  |
 | Nosaltres |   Anem |
 | Vosaltres |   Aneu |
-| Ells/Ellas|   Van |
+| Ells/Elles|   Van |
 
 🔵 Vols venir a ...?\
 🔵 Et ve de gust ...?\
 🔵 Pots ...?\
-🔵 At va bé ...?
+🔵 Àt va bé ...?
 
 🟣😄 I tant. Quina bona idea!\
 🟣😄 Si, d'acord\
 🟣😄 Em ve de gust\
-🟣😄 A on quedem? Que porto? A quina hora es? On es?
+🟣😄 A on quedem? Què porto? A quina hora és? On és?
 
 🟣😔 Ho sento, no puc em trobo malament\
 🟣😔 No em va bé\
 🟣😔 No tinc ganes, prefereixo ...\
 🟣😔 No m'agrada
 
-🔵😔 Mellorat!\
-🔵😔 No pasa res, ja quedarem!
+🔵😔 Millorat!\
+🔵😔 No passa res, ja quedarem!
 
 🔵 Anem a prendre alguna cosa?
 🟣 Ho sento, no puc
@@ -70,16 +70,16 @@
 | Ell/Ella  |   Vol  |
 | Nosaltres |   Volem |
 | Vosaltres |   Voleu |
-| Ells/Ellas|   Volem |
+| Ells/Elles|   Volem |
 
 🔵 Benvingut! Què vols?\
 🟣 Vull una barra de pá de pagès\
 🔵 Tallat?\
-🟣 Si , i us plau\
+🟣 Sí, i us plau\
 🔵 Què més? - Alguna cosa més?\
 🟣 No, res més\
-🔵 Efectiu o tarjeta?\
-🟣 Efectiu, quant es?\
+🔵 Efectiu o targeta?\
+🟣 Efectiu, quan és?\
 🔵 10 euros, vols bossa?\
 🟣 No cal, adeu!\
 🔵 Que vagi bé!

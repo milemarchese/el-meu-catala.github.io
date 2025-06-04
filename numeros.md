@@ -43,7 +43,7 @@
 | Ell/Ella  |   Té  |
 | Nosaltres |   Tenim |
 | Vosaltres |   Teniu |
-| Ells/Ellas|   Tenen |
+| Ells/Elles|   Tenen |
 
 🔵 Quants anys tens?\
-🟣 Tinc 34 anys **o** en tinc 34
+🟣 Tinc trenta-quatre anys **o** en tinc trenta-quatre
