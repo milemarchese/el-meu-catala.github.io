@@ -31,6 +31,15 @@
 
 #### Propostes de lleure
 
+|           |  Anar  |
+|-----------|-------|
+| Jo        |   Vaig |
+| Tu        |   Vas |
+| Ell/Ella  |   Va  |
+| Nosaltres |   Anem |
+| Vosaltres |   Aneu |
+| Ells/Ellas|   Van |
+
 🔵 Vols venir a ...?\
 🔵 Et ve de gust ...?\
 🔵 Pots ...?\
