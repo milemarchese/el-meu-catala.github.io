@@ -25,7 +25,7 @@ title: Català
 - [Colores](colores.md)
 - [Descriure una persona](descripcions.md)
 - [La família](familia.md)
-- [Llocs y activitats](llocs.md)
+- [Llocs y activitats](llocs-activitats.md)
 - [Treballs](treballs.md)
 
 ## Links

@@ -58,7 +58,7 @@
 🔵😔 Millorat!\
 🔵😔 No passa res, ja quedarem!
 
-🔵 Anem a prendre alguna cosa?
+🔵 Anem a prendre alguna cosa?\
 🟣 Ho sento, no puc
 
 #### Voler
@@ -79,7 +79,7 @@
 🔵 Què més? - Alguna cosa més?\
 🟣 No, res més\
 🔵 Efectiu o targeta?\
-🟣 Efectiu, quan és?\
+🟣 Efectiu, quant és?\
 🔵 10 euros, vols bossa?\
 🟣 No cal, adeu!\
 🔵 Que vagi bé!

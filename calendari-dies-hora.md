@@ -47,11 +47,11 @@
 
 > L'hora és femení i plural
 
-12:30 Són dos quarts d'una
-13:00 És la una en punt
-12:15 És un quart d'una
-14:00 Són les dues en punt
-12:45 Són tres quarts d'una
+12:30 Són dos quarts d'una\
+13:00 És la una en punt\
+12:15 És un quart d'una\
+14:00 Són les dues en punt\
+12:45 Són tres quarts d'una\
 12:00 Són les dotze en punt
 
 #### Horaris
@@ -62,7 +62,7 @@
 
 🔵 Els supermercats obren de dilluns a dissabte
 
-🔵 Les farmàcies obren a las 9 i tancan a las 8
+🔵 Les farmàcies obren a les 9 i tancan a les 8
 
 #### Freqüències
 
