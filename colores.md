@@ -24,3 +24,4 @@
 |lila|lila|liles|liles|
 |gris|grisa|grisos|grises|
 |negre|negra|negres|negres|
+|vermell|vermella|vermells|vermelles|
